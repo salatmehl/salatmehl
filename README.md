@@ -5,6 +5,7 @@ I'm a communications professional turned digital marketing analyst, based in Ham
 
 Currently on a mission to help companies to thrive in the ever-evolving digital landscape by bringing my creativity and analytical prowess to the table. Let's collaborate on GitHub and make data-driven marketing magic happen!
 
+
 <b><u>Skills:</u></b>
 - Online Presence Analysis 
 - Customer Journey Mapping
