@@ -3,7 +3,7 @@ I'm Elena.
 
 I'm a communications professional turned digital marketing analyst | based in Hamburg, Germany. 
 
-Currently on a mission to help companies thrive in the ever-evolving digital landscape by bringing my creativity and analytical prowess to the table. Let's collaborate on GitHub and make data-driven marketing magic happen!
+Currently on a mission to help companies thrive in the ever-evolving digital landscape by leveraging technology. Let's collaborate on GitHub and make data-driven marketing magic happen!
 
 
 <b><u>Skills:</u></b>
