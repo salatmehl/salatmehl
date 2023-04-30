@@ -1,7 +1,5 @@
 ### Hi there 👋 
-I'm Elena.
-
-I'm a communications professional turned digital marketing analyst | based in Hamburg, Germany. 
+I'm Elena, a digital marketing analyst | based in Hamburg, Germany. 
 
 Currently on a mission to help companies thrive in the ever-evolving digital landscape by leveraging technology. Let's collaborate on GitHub and make data-driven marketing magic happen!
 
